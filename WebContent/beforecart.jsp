@@ -42,16 +42,16 @@ body {
 }
 
 </style>
-<title>cart</title>
+<title>Cart</title>
 </head>
 <body>
 
 <h2>
 <table style="width:50%">
 <tr>
-<td><a href="home.jsp" style="color:black" >Home</a></td>
-<td><a href="menu.jsp" style="color:black">Menu</a></td>
-<td><a href="logout.jsp" style="color:black">Logout</a></td>
+<td><a href="home.jsp" style="color:black" >Home </a></td>
+<td><a href="menu.jsp" style="color:black">Menu </a></td>
+<td><a href="logout.jsp" style="color:black">Logout </a></td>
 </tr>
 </table>
 </h2>

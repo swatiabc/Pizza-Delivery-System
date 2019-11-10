@@ -125,7 +125,6 @@ table, th, td {
 
 </style>
 
-</style>
 </head>
 <body>
 <center>
